@@ -12,7 +12,6 @@ var età;
 var iname = prompt("Dammi un nome: ");
 var isurname = prompt("Dammi un cognome: ");
 var iage = prompt("Dammi un Età: ");
-var element = {};
 data.Nome = iname;
 data.Cognome = isurname;
 data.Età = iage;
